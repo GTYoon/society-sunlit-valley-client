@@ -13,7 +13,11 @@
                         "javaOptions":  {
                                             "supported":  "\u003e=17 \u003c18",
                                             "suggestedMajor":  17,
-                                            "distribution":  "TEMURIN"
+                                            "distribution":  "TEMURIN",
+                                            "ram":  {
+                                                        "recommended":  12288,
+                                                        "minimum":  4096
+                                                    }
                                         },
                         "mainServer":  true,
                         "autoconnect":  true,
